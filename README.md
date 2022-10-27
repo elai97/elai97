@@ -1,7 +1,5 @@
 ### Hi there 👋  I'm Elijah but you can call me elai97.
 
-## Currently I'm a B.Eng student at the pretigious University of Nigeria (UNN).
-
 - 🔭 I’m currently developing mobile apps with Flutter and web apps with NodeJs.
 - 👯 I’m looking to collaborate with you on any project.
 - 💬 Ask me about mobile and web dev.
