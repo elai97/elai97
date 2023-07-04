@@ -1,4 +1,6 @@
-### Hi there 👋  I'm Elijah but you can call me elai97.
+
+### About Me
+- I am a passionate software developer specializing in mobile app development using Flutter and web app development using Node.js. With a strong focus on creating efficient and user-friendly applications, I strive to deliver high-quality solutions to complex problems.
 
 - 🔭 I’m currently developing mobile apps with Flutter and web apps with NodeJs.
 - 👯 I’m looking to collaborate with you on any project.
