@@ -1,10 +1,10 @@
 
 ### About Me
-- I am a passionate software developer specializing in mobile app development using Flutter and web app development using Node.js family. With a strong focus on creating efficient and user-friendly applications, I strive to deliver high-quality solutions to complex problems.
+- I am a passionate software engineer proficient in Dart, JavaScript and TypeScript. With a strong focus on creating efficient and user-friendly applications, I strive to deliver high-quality solutions to complex problems.
 
 ### What I Do
-- 🔭 Currently, I am dedicated to building cutting-edge mobile applications with Flutter, leveraging its powerful cross-platform capabilities to reach a wider audience.
-- 💻 Additionally, I am proficient in web app development using Node.js, where I create scalable and robust applications that deliver exceptional user experiences.
+- 🔭 Currently, I am dedicated to building cutting-edge mobile applications with Flutter and React Native, leveraging its powerful cross-platform capabilities to reach a wider audience.
+- 💻 Additionally, I am proficient in web app development using ReactJs and NextJs, where I create scalable and robust applications that deliver exceptional user experiences.
 
 ### Collaboration Opportunities
 - 👯 I am actively seeking collaboration opportunities on exciting projects. If you're looking for a dedicated developer to join your team, I'd love to hear from you!
